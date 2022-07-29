@@ -1,1 +1,3 @@
-//HI
+function(){
+    console.log("Prueba 1")
+}
